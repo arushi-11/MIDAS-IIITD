@@ -8,8 +8,8 @@
 
      Step 1:  First thing is to load my dataset to clean it further.
   
-     Step 2: After uploading, I’ll clean my dataset using NLTK Library( Natural language toolkit) by removing the following so that 
-     machine could work efficiently and process my dataset further.
+     Step 2: After uploading, I’ll clean my dataset using NLTK Library( Natural language toolkit) by removing 
+     the following so that machine could work efficiently and process my dataset further.
 
      Step 3: Text Preprocessing
 
@@ -63,16 +63,19 @@
 
 <h3> :diamonds: What ideas do you have to improve the accuracy of the model in NLP </h3>
 
-       1. One idea that generally came to my mind is to use multiple algorithms on single dataset as because some algorithms are 
-          better suited to a particular type of data sets than others. I've tried this doing with single datasets aplying random
-          Forest and Naive bayes. I get Random forest algorithm works better in that datatset.
+       1. One idea that generally came to my mind is to use multiple algorithms on single dataset as 
+          because some algorithms are better suited to a particular type of data sets than others. 
+          I've tried this doing with single datasets aplying random Forest and Naive bayes. I get 
+          Random forest algorithm works better in that datatset.
  
-       2. Another idea that came in my mind is to add more data in the dataset. I didn't try this but have heard one of the 
-          professor while in ACM Winter School.
-          Reason: As it allows the “data to tell for itself,” instead of relying on assumptions and weak correlations. 
+       2. Another idea that came in my mind is to add more data in the dataset. I didn't try this but
+          have heard one of the professor while in ACM Winter School.
+          Reason: As it allows the “data to tell for itself,” instead of relying on assumptions and 
+          weak correlations. 
 
 
-(I stuck little while working with Naive Bayes in Google Collab notebook, still learning and working on my mistakes)
+(I stuck little while working with Naive Bayes in Google Collab notebook, still learning and working
+on my mistakes)
 
 <h3> THANK YOU, SIR:exclamation: </h3>
 
@@ -81,7 +84,8 @@
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- <h4> :sparkles: I have also give online session to provide  general information about "Introduction to Natural Language Processing" to B.tech and MCA students!:sparkles: </h4>
+ <h4> :sparkles: I have also give online session to provide  general information about 
+   "Introduction to Natural Language Processing" to B.tech and MCA students!:sparkles: </h4>
  :point_right: https://youtu.be/mb7qbHCNTKE
 
 
